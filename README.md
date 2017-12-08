@@ -1,5 +1,6 @@
 # XHSegmentViewController
 Swift实现的一个可高度定制的SegmentViewController
+
 ##提供的配置项
 - SegmentControl高度
 - ContentView高度
@@ -9,6 +10,7 @@ Swift实现的一个可高度定制的SegmentViewController
 
 ##安装
 手动添加，把XHSegmentViewController下面的代码放到你的工程里面
+
 ##安装要求
 - Xcode8.3.2+
 - iOS8.0+
@@ -37,9 +39,6 @@ self.showsHorizontalScrollIndicator = false
 
 ##协议
 XHSegmentViewController 被许可在 MIT 协议下使用。查阅 LICENSE 文件来获得更多信息。
-
-
-
 
 
 
