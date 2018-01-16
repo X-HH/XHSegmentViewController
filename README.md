@@ -1,6 +1,11 @@
 # XHSegmentViewController
 Swift实现的一个可高度定制的SegmentViewController
 
+<div>
+  <img src="https://github.com/X-HH/XHSegmentViewController/blob/master/demopic1.png" width="30%" height="30%">
+  <img src="https://github.com/X-HH/XHSegmentViewController/blob/master/demopic2.png" width="30%" height="30%">
+</div>
+
 提供的配置项
 ---
 - SegmentControl高度
